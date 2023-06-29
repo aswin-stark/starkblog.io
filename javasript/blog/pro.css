@@ -1,0 +1,21 @@
+#profile{
+    background-image: url(/javasript/blog/360_F_310113294_kySKzpE0uy7Mimc2PheuuuXu5PBd7kdi.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-left: 20px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    color: aliceblue;
+}
+pre{
+font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    padding-top: 20px;
+text-align: center;
+}

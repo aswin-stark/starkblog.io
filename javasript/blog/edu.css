@@ -1,0 +1,28 @@
+ *{
+            padding: 0px;
+            margin: 0px;
+        }
+        #edu{
+            background-image: url(/javasript/blog/dark-background-abstract-background-network-3d-background-1920x1080-8324.png);
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+        }
+        h2{
+            color: azure;
+            text-align: center;
+           
+        }
+        table{
+       text-align: center;
+        }
+        td{
+            color: white;
+            font-size: large;
+            text-align: center;
+            padding:7px;
+        }
+        th{
+            color: white;
+        }
+        
